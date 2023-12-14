@@ -1,1 +1,1 @@
-The goal of this project is  analyzing the career track enrollments and completions of 365’ website students.
+The goal of this project is to determine the conversion rate of students who have already watched the lecture. (where date of first-time engagement comes before (or is equal to) the date of first-time purchase).
